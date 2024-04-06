@@ -1,21 +1,16 @@
-import { useState } from 'react'
+
+
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
      
-
-    <div className='App'>
-
+   <div className='bg-gradient-to-r from-slate-400 via-slate-500 to-slate-400 font-normal py-8 px-8 flex items-center justify-center'>
       
-
-      <h1>
-        <strong > Mi primera APP en vite </strong>
-
-      </h1>
-    
+         ahora esto seria un cuerpo 
+      
     </div>
   )
 }
