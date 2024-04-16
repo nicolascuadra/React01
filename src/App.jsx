@@ -7,7 +7,7 @@ function App() {
 
   return (
      
-   <div className='bg-gradient-to-r from-slate-400 via-slate-500 to-slate-400 font-normal py-8 px-8 flex items-center justify-center'>
+   <div className='bg-gradient-to-r from-slate-400 via-red-500 to-slate-400 font-normal py-8 px-8 flex items-center justify-center'>
       
          ahora esto seria un cuerpo 
       
